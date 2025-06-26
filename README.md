@@ -1,3 +1,6 @@
+![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen)
+
+
 # 🚀 FastAPI E2E Backend – Domain-Driven Design Architecture
 
 This project is a scalable and testable **end-to-end backend system** built with FastAPI, implementing **Domain-Driven Design (DDD)** architecture, full CRUD functionality, API Key security, and test coverage using `pytest`.

@@ -93,7 +93,7 @@ DDD is an architectural approach where the **core business logic (domain)** is i
 
 All endpoints are protected via a **custom API Key middleware**.
 
-Use this header to access the API:
+Use this header to access the API: 123456
 
 
 ---
